@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "b0e20ac6d81f1af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cff957b00e705d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa5168047c74b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a04376c0beaf073f",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d584e954caa439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e17b87f5ca80f5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "11cf77b208194fcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4145d0bbf1ce4b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ded6188f698b8b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56997af438917aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "270cdb42f9d530da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4790fd43fd419c84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8cf7f1d2e0f2a4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "968e18945b4068a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3e17b87f5ca80f5f",
+  "lastOpenFiles": [
+    "Projects/Tool Configuration/Learn Bruno",
+    "Areas/Development/Personal Development.md",
+    "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
+    "Projects/Tool Configuration/Configuring Git for Obsidian",
+    "Projects/Tool Configuration",
+    "Projects/Tool Configuration/Neovim Configuration/Neovim Configuration.md",
+    "Projects/Tool Configuration/Neovim Configuration",
+    "Projects/Tool Configuration/Templating for Neovim/Templating for Neovim.md",
+    "Templates/Area Status Page.md",
+    "Resources/Tooling/Neovim Resources.md",
+    "Areas/Development/Area Status Page.md",
+    "Resources/Tooling/Obsidian SOP and Processes.md",
+    "Templates/Project Status Page.md",
+    "Areas/Development",
+    "2024-03-25.md",
+    "Projects/Tool Configuration/Templating for Neovim",
+    "Introduction.md",
+    "Resources/Tooling",
+    "Templates",
+    "Untitled.md",
+    "Archive/Resources",
+    "Archive/Areas",
+    "Archive/Project",
+    "create a link.md"
+  ]
+}
