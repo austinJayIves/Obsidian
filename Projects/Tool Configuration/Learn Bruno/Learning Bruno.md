@@ -10,6 +10,9 @@ Bruno is meant to be an open-source replacement for both Postman and Insomnia. B
 This project is to learn how to leverage Bruno, and to write a few small collections in Bruno to make sure I know how to use it effectively.
 ## Resources of Note
 - [Bruno Landing Page](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/usebruno/bruno&ved=2ahUKEwj76bKA75CFAxVaDTQIHaV4CVwQFnoECAcQAQ&usg=AOvVaw0-SVMdf8pkzmADHprZz6A-)
+- [Bruno Documentation](https://docs.usebruno.com/) - Documentation for scripting and assertions in Bruno
+	- I like the `.env` approach. It makes secret handling easy! :)
+	
 ## Status
 - Have installed bruno `winget install Bruno.Bruno` and toyed around with it a bit. Planning on adding a collection to it for interfacing with Vex
 ## Action Items
