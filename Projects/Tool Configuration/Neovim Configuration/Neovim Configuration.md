@@ -3,6 +3,7 @@ created: 2024-03-25 17:07
 modified: 2024-03-25 17:07
 tags:
   - Development
+project_status: Open
 ---
 ## Summary
 I need to configure my Neovim configuration to make best use of the software. In addition, I plan to research and follow through with _actually_ learning how to leverage vim effectively. This is something I've wanted to do for some time now, so learning how to do so will be essential in becoming a better engineer.

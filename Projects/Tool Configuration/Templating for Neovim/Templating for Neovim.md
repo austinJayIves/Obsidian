@@ -1,3 +1,8 @@
+---
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+project_status: Open
+---
 ## Summary
 In this project, I aim to create a templating SOP for making a series of templates that allow for better note taking on a particular area or topic.
 

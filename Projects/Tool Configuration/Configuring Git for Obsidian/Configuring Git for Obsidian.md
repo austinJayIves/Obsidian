@@ -1,6 +1,7 @@
 ---
 created: 2024-03-25 18:31
 modified: 2024-03-25 18:31
+project_status: Open
 ---
 
 ## Summary
@@ -12,7 +13,8 @@ N/A - This is a one time ask, no follow up or resources needed. Will be moving t
 - Currently, need to configure git in Obsidian to ensure that the repo information is set up correctly
 
 ## Action Items
-- [ ] Currently, need to configure git in Obsidian to ensure that the repo information is set up correctly
+- [x] Currently, need to configure git in Obsidian to ensure that the repo information is set up correctly
+- [ ] Awaiting to see if this will work? Have set Git to sync every 60 minutes.
 
 ## Due Dates
 - If I don't get this done today, I likely won't.

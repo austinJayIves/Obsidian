@@ -7,6 +7,8 @@ This focus area is specifically for projects and development topics that are per
 ## Current Projects
 - [[Neovim Configuration]]
 - [[Templating for Neovim]]
+- [[Learning Bruno]]
+- [[Configuring Git for Obsidian]] 
 ## Risks
 N/A - These are for my own development. There are no risks, hence the beauty of it :)
 ## Quick Resources
