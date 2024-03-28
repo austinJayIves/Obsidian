@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md"
+                "file": "Projects/Personal/Sahale Arm Decisions.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "25e7faceab2e050c",
   "lastOpenFiles": [
-    "Areas/Development/Personal Development.md",
+    "Resources/Personal/Sahale Backpacking Resources.md",
+    "Projects/Personal/Sahale Arm Decisions.md",
+    "Resources/Personal",
     "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
+    "Projects/Personal",
+    "Areas/Development/Personal Development.md",
     "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
     "Projects/Tool Configuration/Neovim Configuration/Neovim Configuration.md",
     "Projects/Tool Configuration/Templating for Neovim/Templating for Neovim.md",
@@ -170,8 +174,6 @@
     "Resources/Tooling",
     "Templates",
     "Untitled.md",
-    "Archive/Resources",
-    "Archive/Areas",
     "create a link.md"
   ]
 }
