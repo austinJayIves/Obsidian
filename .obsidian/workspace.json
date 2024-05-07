@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "30967d354982d28d",
+        "id": "65ba409015527660",
         "type": "tabs",
         "children": [
           {
-            "id": "25e7faceab2e050c",
+            "id": "20f7a7dd505b02c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Personal/Sahale Arm Decisions.md",
+                "file": "Areas/Personal/Development/Vex.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Personal/Sahale Arm Decisions.md",
+                "file": "Areas/Personal/Development/Vex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Personal/Sahale Arm Decisions.md",
+                "file": "Areas/Personal/Development/Vex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Personal/Sahale Arm Decisions.md"
+                "file": "Areas/Personal/Development/Vex.md"
               }
             }
           }
@@ -147,14 +148,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25e7faceab2e050c",
+  "active": "20f7a7dd505b02c5",
   "lastOpenFiles": [
-    "Resources/Personal/Sahale Backpacking Resources.md",
+    "Areas/Personal/Development/Personal Development.md",
+    "Areas/Personal/Development/Vex.md",
+    "Areas/Personal",
+    "Inbox/Vex Project Management.md",
     "Projects/Personal/Sahale Arm Decisions.md",
+    "Inbox",
+    "Resources/Personal/Sahale Backpacking Resources.md",
     "Resources/Personal",
     "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
     "Projects/Personal",
-    "Areas/Development/Personal Development.md",
     "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
     "Projects/Tool Configuration/Neovim Configuration/Neovim Configuration.md",
     "Projects/Tool Configuration/Templating for Neovim/Templating for Neovim.md",
@@ -167,13 +172,10 @@
     "Resources/Tooling/Neovim Resources.md",
     "Areas/Development/Area Status Page.md",
     "Resources/Tooling/Obsidian SOP and Processes.md",
-    "Areas/Development",
+    "Areas/Personal/Development",
     "2024-03-25.md",
     "Projects/Tool Configuration/Templating for Neovim",
     "Introduction.md",
-    "Resources/Tooling",
-    "Templates",
-    "Untitled.md",
     "create a link.md"
   ]
 }
