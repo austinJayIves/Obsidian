@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laptop Upgrades.md",
+                "file": "Inbox/Vex Project Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laptop Upgrades.md",
+                "file": "Inbox/Vex Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laptop Upgrades.md",
+                "file": "Inbox/Vex Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laptop Upgrades.md"
+                "file": "Inbox/Vex Project Management.md"
               }
             }
           }
@@ -164,33 +164,33 @@
   },
   "active": "b815a13a48d01667",
   "lastOpenFiles": [
-    "Areas/Personal/Development/Vex.md",
+    "Projects/Personal/Sahale Arm Decisions.md",
+    "Resources/Personal/Sahale Backpacking Resources.md",
+    "Templates/Area Status Page.md",
+    "Templates/Project Status Page.md",
+    "Introduction.md",
     "Laptop Upgrades.md",
+    "Areas/Personal/Development/Vex.md",
     "Areas/Personal/Development/Personal Development.md",
     "Areas/Personal",
     "Inbox/Vex Project Management.md",
-    "Projects/Personal/Sahale Arm Decisions.md",
     "Inbox",
-    "Resources/Personal/Sahale Backpacking Resources.md",
     "Resources/Personal",
     "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
     "Projects/Personal",
     "Projects/Tool Configuration/Configuring Git for Obsidian/Configuring Git for Obsidian.md",
     "Projects/Tool Configuration/Neovim Configuration/Neovim Configuration.md",
     "Projects/Tool Configuration/Templating for Neovim/Templating for Neovim.md",
-    "Templates/Project Status Page.md",
     "Projects/Tool Configuration/Learn Bruno",
     "Projects/Tool Configuration/Configuring Git for Obsidian",
     "Projects/Tool Configuration",
     "Projects/Tool Configuration/Neovim Configuration",
-    "Templates/Area Status Page.md",
     "Resources/Tooling/Neovim Resources.md",
     "Areas/Development/Area Status Page.md",
     "Resources/Tooling/Obsidian SOP and Processes.md",
     "Areas/Personal/Development",
     "2024-03-25.md",
     "Projects/Tool Configuration/Templating for Neovim",
-    "Introduction.md",
     "create a link.md"
   ]
 }
