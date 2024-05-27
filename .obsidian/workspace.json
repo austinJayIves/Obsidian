@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Vex Project Management.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Vex Project Management.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Vex Project Management.md",
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Vex Project Management.md"
+                "file": "Projects/Personal/Sahale Arm Decisions.md"
               }
             }
           }
@@ -164,16 +164,18 @@
   },
   "active": "b815a13a48d01667",
   "lastOpenFiles": [
-    "Projects/Personal/Sahale Arm Decisions.md",
     "Resources/Personal/Sahale Backpacking Resources.md",
+    "Laptop Upgrades.md",
+    "Resources/Tooling/Obsidian SOP and Processes.md",
+    "Resources/Tooling/Neovim Resources.md",
+    "Inbox/Vex Project Management.md",
+    "Projects/Personal/Sahale Arm Decisions.md",
     "Templates/Area Status Page.md",
     "Templates/Project Status Page.md",
     "Introduction.md",
-    "Laptop Upgrades.md",
     "Areas/Personal/Development/Vex.md",
     "Areas/Personal/Development/Personal Development.md",
     "Areas/Personal",
-    "Inbox/Vex Project Management.md",
     "Inbox",
     "Resources/Personal",
     "Projects/Tool Configuration/Learn Bruno/Learning Bruno.md",
@@ -185,9 +187,7 @@
     "Projects/Tool Configuration/Configuring Git for Obsidian",
     "Projects/Tool Configuration",
     "Projects/Tool Configuration/Neovim Configuration",
-    "Resources/Tooling/Neovim Resources.md",
     "Areas/Development/Area Status Page.md",
-    "Resources/Tooling/Obsidian SOP and Processes.md",
     "Areas/Personal/Development",
     "2024-03-25.md",
     "Projects/Tool Configuration/Templating for Neovim",
