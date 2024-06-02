@@ -17,12 +17,18 @@ This doc is to go over the decisions we need to make for Sahale Arm.
 - [ ] Water Filter / Tabs
 - [ ] Nalgenes
 - [ ] Gaia GPS App (Free? Pro?)
-- [ ] Bear Canister
-- [ ] Hiking Poles
-- [ ] Lantern / Flashlight
-- [ ] Chairs / Pads
+- [x] Bear Canister
+- [x] Hiking Poles
+- [x] Lantern / Flashlight
+- [x] Chairs / Pads
 - [ ] Crampons?
 - [ ] Small Shovel / Trowel
+- [ ] Poop Shovel
+- [ ] Elena Backpack Raincover
+- [ ] Tent Footprint/Tarp
+- [ ] Pillows
+- [x] Bear Spray
+- [ ] Shitty Sunglasses
 ## Recommendations
 > Agreed with the other comment so far; Aug is a good time to go. I've camped up there four times in both Aug and Sept and have had every type of weather: Perfect, snow, thunderstorms, wind, rain, you name it. Even a lightning strike below us that started a fire. August has a slightly higher chance of strong thunderstorms and downpours; people have been briefly stranded up there when the road washed out during an Aug t-storm.
    You'll need at least a puffy, rainshell (that fits over the puffy), and layers and you'll be fine. Have a stout tent, as you may not get one of the more protected campsites, and TBH, the 'protected' campsites on the rock-walled mounds are always exposed; some of the ones just below/behind them are far more wind-protected.

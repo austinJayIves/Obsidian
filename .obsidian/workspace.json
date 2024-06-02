@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d970ee107937a1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal/Sahale Arm Decisions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,14 +175,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b815a13a48d01667",
+  "active": "d970ee107937a1a8",
   "lastOpenFiles": [
+    "Toyota RAV4 - Modifications.md",
+    "Pasted image 20240527114429.png",
+    "Projects/Personal/Sahale Arm Decisions.md",
     "Resources/Personal/Sahale Backpacking Resources.md",
     "Laptop Upgrades.md",
     "Resources/Tooling/Obsidian SOP and Processes.md",
     "Resources/Tooling/Neovim Resources.md",
     "Inbox/Vex Project Management.md",
-    "Projects/Personal/Sahale Arm Decisions.md",
     "Templates/Area Status Page.md",
     "Templates/Project Status Page.md",
     "Introduction.md",
