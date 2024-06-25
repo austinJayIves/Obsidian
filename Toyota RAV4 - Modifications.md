@@ -6,9 +6,8 @@
 		- EcoHitch sits higher, you _can_ cut the bumper to install, but most people say it is not necessary and it sits higher than the Curt Hitch, hence why we chose it.
 - [ ] Crossbars
 	- [ ] _Thule?_ - OEM Crossbars do not appear to be needed
-- [ ] Dash Camera
+- [x] Dash Camera
 	- [VIOFO A229 Pro 4K](https://www.amazon.com/dp/B0CKYFSKNN?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 	- [Hotwire Kit](https://www.amazon.com/dp/B0CHDXPGP1?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 	- [Samsung Pro Endurance SD Card](https://www.amazon.com/dp/B09WB3D5GQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-- [ ] Cup Holder situation?
 - [ ] 

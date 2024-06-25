@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Personal/Development/Vex.md",
+                "file": "Toyota RAV4 - Modifications.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1da61fc95c4ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lego Keyboard Inventory + Parts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Personal/Development/Vex.md",
+                "file": "Lego Keyboard Inventory + Parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Personal/Development/Vex.md",
+                "file": "Lego Keyboard Inventory + Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Personal/Development/Vex.md"
+                "file": "Lego Keyboard Inventory + Parts.md"
               }
             }
           }
@@ -188,13 +201,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "461350806b827ee8",
+  "active": "bb1da61fc95c4ac2",
   "lastOpenFiles": [
-    "Areas/Personal/Development/Personal Development.md",
+    "Toyota RAV4 - Modifications.md",
+    "Lego Keyboard Inventory + Parts.md",
+    "Resources/Personal/Keyboards",
     "Laptop Upgrades.md",
+    "Areas/Personal/Development/Vex.md",
+    "Areas/Personal/Development/Personal Development.md",
     "Resources/Personal/Seattle/Coffee Shop Reviews.md",
     "Resources/Personal/Seattle",
-    "Toyota RAV4 - Modifications.md",
     "Pasted image 20240527114429.png",
     "Projects/Personal/Sahale Arm Decisions.md",
     "Introduction.md",
@@ -204,7 +220,6 @@
     "Inbox/Vex Project Management.md",
     "Templates/Area Status Page.md",
     "Templates/Project Status Page.md",
-    "Areas/Personal/Development/Vex.md",
     "Areas/Personal",
     "Inbox",
     "Resources/Personal",
@@ -218,7 +233,6 @@
     "Projects/Tool Configuration",
     "Projects/Tool Configuration/Neovim Configuration",
     "Areas/Development/Area Status Page.md",
-    "Areas/Personal/Development",
     "2024-03-25.md",
     "create a link.md"
   ]
