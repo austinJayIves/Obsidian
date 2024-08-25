@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "792593974b722fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing these down so that I don't forget the context.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lego Keyboard Inventory + Parts.md",
+                "file": "Writing these down so that I don't forget the context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lego Keyboard Inventory + Parts.md",
+                "file": "Writing these down so that I don't forget the context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lego Keyboard Inventory + Parts.md"
+                "file": "Writing these down so that I don't forget the context.md"
               }
             }
           }
@@ -201,10 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb1da61fc95c4ac2",
+  "active": "792593974b722fa0",
   "lastOpenFiles": [
-    "Toyota RAV4 - Modifications.md",
     "Lego Keyboard Inventory + Parts.md",
+    "Writing these down so that I don't forget the context.md",
+    "Toyota RAV4 - Modifications.md",
     "Resources/Personal/Keyboards",
     "Laptop Upgrades.md",
     "Areas/Personal/Development/Vex.md",
