@@ -18,18 +18,17 @@ At the time, I do not believe we reported the contribution to a Roth IRA and sub
 ### Elena Roth Contributions
 #### 2022
 ##### Contributions
-- Contributed $6000 directly to Roth IRA for 2022
-	- $2400 on 04APR2022 -> SPAXX 
-		- 05APR 2022 - $2,400 SPAXX -> FZROX
-		- 08APR 2022 - +$4.09 INTEREST (SPAXX)
-		- 08APR 2022 - $4.09 SPAXX -> FSKAX
-	- $2800 on 18APR2022 -> SPAXX 
-		- 19APR 2022 - $1,000 SPAXX -> FSKAX 
-		- 19APR 2022 - $1,800 SPAXX -> FZROX
-	- $800 on 02MAY2022 -> SPAXX
-		06MAY 2022 - $800 SPAXX -> FSKAX
-- Married in Dec 2022, realized that if married filing jointly for 2022 I was unable to directly contribute to the Roth IRA in 2022 based on income limits for Roth contributions 
-- Decided to calculate losses and withdraw appropriate amount from Roth IRA and recontribute via backdoor Roth contribution to account for income limits for Roth contributions
+Contributed $6000 directly to Roth IRA for 2022
+- $2400 on 04APR2022 -> SPAXX 
+	- 05APR 2022 - $2,400 SPAXX -> FZROX
+	- 08APR 2022 - +$4.09 INTEREST (SPAXX)
+	- 08APR 2022 - $4.09 SPAXX -> FSKAX
+- $2800 on 18APR2022 -> SPAXX 
+	- 19APR 2022 - $1,000 SPAXX -> FSKAX 
+	- 19APR 2022 - $1,800 SPAXX -> FZROX
+- $800 on 02MAY2022 -> SPAXX
+	- 06MAY 2022 - $800 SPAXX -> FSKAX
+- DEC 2022 - Married :) 
 #### 2023 (Within contribution / correction period)
 - Based on calculated losses of $524.62 in the Roth account over the course of the year thus far, we withdrew the remaining amount of initial contribution after losses ($5475.38) from Roth IRA:
 - 17 JAN 2023
