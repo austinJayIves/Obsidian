@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "149e7c477c160795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity Protection Pin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/2022 Tax Revision + 2023 Taxes.md",
+                "file": "Identity Protection Pin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/2022 Tax Revision + 2023 Taxes.md",
+                "file": "Identity Protection Pin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/2022 Tax Revision + 2023 Taxes.md"
+                "file": "Identity Protection Pin.md"
               }
             }
           }
@@ -214,11 +227,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a45cea30d0f2f122",
+  "active": "149e7c477c160795",
   "lastOpenFiles": [
+    "Inbox/2022 Tax Revision + 2023 Taxes.md",
+    "Identity Protection Pin.md",
     "Areas/Personal/Development/Vex.md",
     "Resources/Personal/Laptop Upgrades.md",
-    "Inbox/2022 Tax Revision + 2023 Taxes.md",
     "Resources/Tooling/Obsidian SOP and Processes.md",
     "Resources/Tooling/Neovim Resources.md",
     "Resources/Personal/Toyota RAV4 - Modifications.md",
