@@ -1,0 +1,5 @@
+- Flights - Booked!
+- Amtrak Train to Vancouver
+	- Leaves 5/18 
+	- Needs to be booked!
+- 
