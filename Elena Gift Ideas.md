@@ -13,3 +13,23 @@ Coffee Table book :)
 
 Dessert:
 - Apple Crisp (experiment with less butter or margaraine)
+
+
+## Things I like to do with Elena
+- Board games (2p game?)
+- Gym (gym shoes)
+- Eating! (Dinner @ SWeL)
+- Going out to events (Nutcracker)
+- Nothing (Sweatpants?)
+- Cooking / Trying things out (Pantry)
+- Reading books (StoryVille Coffee Shop GIft Card (Either ))
+- Shopping ($ to editor? Possibly a gift card or something that we immediately go use?)
+
+## Calendar
+### Dec 6th
+- 10 AM Wake Up
+	- Breakfast? (Oatmeal and some fresh fruit)
+- 12 PM
+	-
+- 7PM
+	- Nutcracker (Park at Bake Shop)
