@@ -17,13 +17,16 @@ Dessert:
 
 ## Things I like to do with Elena
 - Board games (2p game?)
-- Gym (gym shoes)
+- Gym (gym shoes siZE 10)
 - Eating! (Dinner @ SWeL)
 - Going out to events (Nutcracker)
 - Nothing (Sweatpants?)
 - Cooking / Trying things out (Pantry)
 - Reading books (StoryVille Coffee Shop GIft Card (Either ))
 - Shopping ($ to editor? Possibly a gift card or something that we immediately go use?)
+- Flowers
+- Birthday Balloons
+- Cake
 
 ## Calendar
 ### Dec 6th
