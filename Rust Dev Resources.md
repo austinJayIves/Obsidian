@@ -1,0 +1,3 @@
+- [ ] cargo-generate
+	- Determine if this will fit my use case
+- 
