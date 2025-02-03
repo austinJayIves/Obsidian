@@ -236,12 +236,15 @@
             "id": "86692cf8e0f8bdf2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Drukhari - 40K Warhammer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Drukhari - 40K Warhammer"
             }
           }
         ],
