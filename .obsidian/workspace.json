@@ -225,15 +225,27 @@
               "state": {
                 "file": "Drukhari - 40K Warhammer.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Drukhari - 40K Warhammer"
             }
+          },
+          {
+            "id": "86692cf8e0f8bdf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -375,7 +388,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b875883b613ff22",
+  "active": "86692cf8e0f8bdf2",
   "lastOpenFiles": [
     "().md",
     "Drukhari - 40K Warhammer.md",
