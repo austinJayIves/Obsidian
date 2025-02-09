@@ -10,7 +10,7 @@
 - [Duncan Rhodes Intro Channel](https://www.youtube.com/watch?v=rz76A0Jpp7E&list=PLq_4hrcy0wbQ_8rCZJ_7R8Xr20KR_vpF7)
 
 ### Tools Needed
-1. [ ] Brushes (2x of each if possible)
+1. [x] Brushes (2x of each if possible)
 	1. Dry Brush
 	2. Medium Layer Brush
 	3. Small Layer Brush
